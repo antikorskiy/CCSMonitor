@@ -1,0 +1,11 @@
+matplotlib
+numpy
+aiohttp
+lightgbm
+scikit-learn
+openpyxl
+shap
+joblib
+pystray
+pillow
+win10toast ; sys_platform == "win32"
